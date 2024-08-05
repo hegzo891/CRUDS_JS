@@ -98,9 +98,17 @@ table{
     tr{
         display: flex;
         align-content: center;
+        margin: 20px;
         align-items: center;margin: 8 px;
     }
     thead{
+        font-size: 25px;
         font-weight: bold;
-        font-size: 20px;
+    }
+    
+    td{
+    }
+    tbody {
+        text-align: center;
+
     }
